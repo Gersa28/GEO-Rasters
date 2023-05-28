@@ -1,2 +1,2 @@
-# GER-Rasters
+# GEO-Rasters
 Background:  Python
